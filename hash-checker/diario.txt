@@ -1,0 +1,3 @@
+Hoy aprendí que un archivo puede cambiar sin que yo me dé cuenta.
+Con un hash puedo comprobar si alguien lo modificó, aunque el cambio sea de una sola letra.
+Mañana voy a probar el verificador con mis propios archivos.

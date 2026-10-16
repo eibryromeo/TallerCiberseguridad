@@ -1,0 +1,4 @@
+Lista de tareas del proyecto A
+1. Escribir el informe
+2. Revisar el presupuesto
+3. Agregar el logo de la escuela

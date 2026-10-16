@@ -1,0 +1,1 @@
+Tarea 1: Un hash convierte cualquier archivo en una cadena de longitud fija.

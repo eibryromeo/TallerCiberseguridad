@@ -1,0 +1,1 @@
+Tarea 2: Dos archivos con el mismo contenido siempre tienen el mismo hash.

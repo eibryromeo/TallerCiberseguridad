@@ -1,0 +1,6 @@
+alumno,calificacion
+ana,9
+luis,8
+sofia,10
+marco,7
+elena,9

@@ -1,0 +1,4 @@
+Apuntes de clase
+- Un hash es una huella digital del contenido de un archivo.
+- Si cambia un solo bit del archivo, el hash cambia por completo.
+- SHA-256 es el algoritmo recomendado hoy para comprobar integridad.
